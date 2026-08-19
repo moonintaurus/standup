@@ -1,4 +1,4 @@
-# Standup
+# Standup Website
 
 Async daily standups for small teams. Sign in once, manage all your teams from one dashboard.
 
